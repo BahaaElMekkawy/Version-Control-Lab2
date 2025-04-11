@@ -16,16 +16,16 @@ Git Rebase : git-rebase - Reapply commits on top of another base tip
 
 Checkout to the branch u need to rebase => git rebase origin/main
 
-When to Use : - Cleaning Up Local Commits - Maintaining Linear History - Syncing Feature Branches:
--------------------------------------------------------------------------
-How to list Tags : git tag => to list all atgs 
--------------------------------------------------------------------------
+-When to Use :Cleaning Up Local Commits -Maintaining Linear History -Syncing Feature Branches
+*************************************************************************
+-How to list Tags : git tag => to list all atgs 
+*************************************************************************
 How to Delete Git Tags
 
 -Delete a Tag Locally : git tag -d <Tag_Name>
 
-Delete a Tag from Remote Repository : git push origin --delete <tag_name>
--------------------------------------------------------------------------
+-Delete a Tag from Remote Repository : git push origin --delete <tag_name>
+*************************************************************************
 ![Bo7a_img](/Images/bo7a.png)
 
 
